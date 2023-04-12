@@ -15,7 +15,7 @@
 <body>
     <div class="container">
         <div class="sidebar">
-            <a href="{{route('home ')}}">
+            <a href="{{route('home')}}">
                 <img src="/assets/images/logo.png" alt="">
             </a>
         </div>
